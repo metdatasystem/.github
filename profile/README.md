@@ -2,6 +2,8 @@
 
 The MDS aims to be an open-source central data collection, storage, and distribution system for all weather and climate data.
 
+Current efforts are focused on building the system for the United States and NOAA (since their data is free), but the ultimate goal is to support data collection and sharing internationally.
+
 ## Previous attempts
 
 This project is based on a few original concepts and is more like version 4 of an idea.
